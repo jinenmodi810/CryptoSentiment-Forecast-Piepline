@@ -53,7 +53,7 @@ Traditional crypto forecasting models focus mainly on historical prices and tech
 
 ## How to Run
 
-1️⃣ **Clone the Repository:**
+** Clone the Repository:**
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/crypto-sentiment-forecast.git
