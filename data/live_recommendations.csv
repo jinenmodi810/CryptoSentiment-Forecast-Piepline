@@ -1,0 +1,8 @@
+crypto_name,price_today_usd,sarima_forecast,lstm_forecast,recommendation
+Bitcoin,"97,151.19","98,878.78",85181.9775,HOLD
+Cardano,0.6969,0.7117,0.6695,HOLD
+Chainlink,14.6162,15.1492,13.8459,HOLD
+Ethereum,1801.6559,1835.7259,1994.5744,BUY
+Litecoin,85.3893,86.7372,92.6159,BUY
+Polkadot,4.1371,4.2605,4.326,BUY
+Solana,146.8634,149.2967,105.9131,HOLD
