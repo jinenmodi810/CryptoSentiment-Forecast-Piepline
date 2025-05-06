@@ -5,19 +5,19 @@
 
 ---
 
-## 📄 Project Overview
+## Project Overview
 
 This project integrates **sentiment analysis** and **time-series forecasting** to predict cryptocurrency market trends, with a focus on Bitcoin (BTC). It gathers real-time sentiment from multiple news sources and combines it with historical price data to generate actionable trading signals (BUY/HOLD) through a fully automated pipeline and dashboard.
 
 ---
 
-## 🔍 Problem Statement
+## Problem Statement
 
 Traditional crypto forecasting models focus mainly on historical prices and technical indicators, ignoring **real-time sentiment.** This gap limits the ability to respond to sudden market-moving news events. The goal here is to build a system that blends **natural language sentiment analysis** with **price forecasting models** to enhance prediction accuracy and responsiveness.
 
 ---
 
-## 🛠️ Features
+##  Features
 
 - **Multi-source News Scraping:**  
   - Reddit (Pushshift API)  
@@ -40,21 +40,22 @@ Traditional crypto forecasting models focus mainly on historical prices and tech
 
 ---
 
-## 📈 Key Results
+## Key Results
 
 | Model  | RMSE (USD) | MAPE (%) | Directional Accuracy (%) |
 |--------|------------|----------|--------------------------|
 | SARIMA | 1250.37    | 1.50     | 57                       |
 | LSTM   | 5528.98    | 10.46    | 86                       |
 
-✅ **Conclusion:** Sentiment-based LSTM significantly improves trend prediction despite higher RMSE, making it better suited for real-world trading.
+ **Conclusion:** Sentiment-based LSTM significantly improves trend prediction despite higher RMSE, making it better suited for real-world trading.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1️⃣ **Clone the Repository:**
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/crypto-sentiment-forecast.git
 cd crypto-sentiment-forecast
+
