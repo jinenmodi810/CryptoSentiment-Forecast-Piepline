@@ -1,4 +1,4 @@
-# 🚀 Crypto Sentiment & Forecast Pipeline
+#  Crypto Sentiment & Forecast Pipeline
 
 **Author:** Jinen Modi (A20549644)  
 **Project:** CS554 Final Project – IIT
