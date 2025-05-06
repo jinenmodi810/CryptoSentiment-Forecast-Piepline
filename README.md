@@ -49,6 +49,9 @@ Traditional crypto forecasting models focus mainly on historical prices and tech
 
  **Conclusion:** Sentiment-based LSTM significantly improves trend prediction despite higher RMSE, making it better suited for real-world trading.
 
+
+<img width="1512" alt="Screenshot 2025-05-05 at 10 39 25 PM" src="https://github.com/user-attachments/assets/870f14cc-784f-461e-ab50-c4f429eff6a8" />
+
 ---
 
 ## How to Run
@@ -58,5 +61,5 @@ Traditional crypto forecasting models focus mainly on historical prices and tech
 ```bash
 git clone https://github.com/YOUR_USERNAME/crypto-sentiment-forecast.git
 cd crypto-sentiment-forecast
-<img width="1512" alt="Screenshot 2025-05-05 at 10 39 25 PM" src="https://github.com/user-attachments/assets/870f14cc-784f-461e-ab50-c4f429eff6a8" />
+streamlit run Frontend.py
 
